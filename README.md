@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=wszxdhr)
+!()[https://raw.githubusercontent.com/wszxdhr/wszxdhr/refs/heads/examples/metrics.classic.svg]
